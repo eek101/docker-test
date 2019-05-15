@@ -1,0 +1,3 @@
+# Remove all .txt extenstions
+# use the following command to get the individual files down:
+# ex. curl 'https://raw.githubusercontent.com/eek101/docker-test/master/Docker.swp' > Docker.swp
